@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://zjsunzone.github.io/uniswap-interface",
+  "homepage": "https://ckmonkey.github.io/uniswap-interface",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
