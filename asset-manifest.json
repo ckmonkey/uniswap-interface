@@ -4,13 +4,13 @@
     "static/js/0.0debc17e.chunk.js.map": "/uniswap-interface/static/js/0.0debc17e.chunk.js.map",
     "static/js/1.91f72ac2.chunk.js": "/uniswap-interface/static/js/1.91f72ac2.chunk.js",
     "static/js/1.91f72ac2.chunk.js.map": "/uniswap-interface/static/js/1.91f72ac2.chunk.js.map",
-    "main.js": "/uniswap-interface/static/js/main.1ce39ea9.chunk.js",
-    "main.js.map": "/uniswap-interface/static/js/main.1ce39ea9.chunk.js.map",
+    "main.js": "/uniswap-interface/static/js/main.38c85742.chunk.js",
+    "main.js.map": "/uniswap-interface/static/js/main.38c85742.chunk.js.map",
     "runtime-main.js": "/uniswap-interface/static/js/runtime-main.efaa72be.js",
     "runtime-main.js.map": "/uniswap-interface/static/js/runtime-main.efaa72be.js.map",
     "static/css/4.15aecaaf.chunk.css": "/uniswap-interface/static/css/4.15aecaaf.chunk.css",
-    "static/js/4.c89733e4.chunk.js": "/uniswap-interface/static/js/4.c89733e4.chunk.js",
-    "static/js/4.c89733e4.chunk.js.map": "/uniswap-interface/static/js/4.c89733e4.chunk.js.map",
+    "static/js/4.2a171941.chunk.js": "/uniswap-interface/static/js/4.2a171941.chunk.js",
+    "static/js/4.2a171941.chunk.js.map": "/uniswap-interface/static/js/4.2a171941.chunk.js.map",
     "static/js/5.b9ed182f.chunk.js": "/uniswap-interface/static/js/5.b9ed182f.chunk.js",
     "static/js/5.b9ed182f.chunk.js.map": "/uniswap-interface/static/js/5.b9ed182f.chunk.js.map",
     "static/js/6.abfd8913.chunk.js": "/uniswap-interface/static/js/6.abfd8913.chunk.js",
@@ -22,10 +22,10 @@
     "static/js/9.383518eb.chunk.js": "/uniswap-interface/static/js/9.383518eb.chunk.js",
     "static/js/9.383518eb.chunk.js.map": "/uniswap-interface/static/js/9.383518eb.chunk.js.map",
     "index.html": "/uniswap-interface/index.html",
-    "precache-manifest.2c97c56781b9494ba19ecea4f14d792c.js": "/uniswap-interface/precache-manifest.2c97c56781b9494ba19ecea4f14d792c.js",
+    "precache-manifest.3e054ee84efdb6d8f6ef8456fbe10530.js": "/uniswap-interface/precache-manifest.3e054ee84efdb6d8f6ef8456fbe10530.js",
     "service-worker.js": "/uniswap-interface/service-worker.js",
     "static/css/4.15aecaaf.chunk.css.map": "/uniswap-interface/static/css/4.15aecaaf.chunk.css.map",
-    "static/js/4.c89733e4.chunk.js.LICENSE.txt": "/uniswap-interface/static/js/4.c89733e4.chunk.js.LICENSE.txt",
+    "static/js/4.2a171941.chunk.js.LICENSE.txt": "/uniswap-interface/static/js/4.2a171941.chunk.js.LICENSE.txt",
     "static/js/5.b9ed182f.chunk.js.LICENSE.txt": "/uniswap-interface/static/js/5.b9ed182f.chunk.js.LICENSE.txt",
     "static/js/9.383518eb.chunk.js.LICENSE.txt": "/uniswap-interface/static/js/9.383518eb.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/uniswap-interface/static/media/Inter.var.4b976905.woff2",
@@ -61,7 +61,7 @@
   "entrypoints": [
     "static/js/runtime-main.efaa72be.js",
     "static/css/4.15aecaaf.chunk.css",
-    "static/js/4.c89733e4.chunk.js",
-    "static/js/main.1ce39ea9.chunk.js"
+    "static/js/4.2a171941.chunk.js",
+    "static/js/main.38c85742.chunk.js"
   ]
 }
